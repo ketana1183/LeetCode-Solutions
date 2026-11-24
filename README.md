@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ketana1183/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
