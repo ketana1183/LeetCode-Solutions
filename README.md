@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0204-count-primes](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0342-power-of-four) |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/ketana1183/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
